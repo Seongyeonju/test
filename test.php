@@ -14,5 +14,9 @@ echo $tester;
 git test;
 git test1;
 git test2;
+git test3;
+git test4;
+git test5;
+git test6;
 ?>
 
